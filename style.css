@@ -1,6 +1,51 @@
+body{
+    
+}
+
 .card-body{
     text-align: center;
 }
 .pongal{
    
+}
+.green{
+    padding:30px
+}
+.green2{
+    padding:30px
+}
+.mar{
+    margin: px;
+}
+
+.beef{
+    height: 300px;
+}
+.row2{
+    padding:40px
+}
+.authentic{
+    
+    background: url(./book-table-img.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+   height:700px;
+   text-align: center;
+   
+}
+.header{
+    margin-top: 120px;
+    text-align: center;
+
+    color:orange;
+@font-face {
+    font-family:newfont ;
+    src: url(fonts/Giaza Stencil);
+}
+ 
+    font-size: 4rem;
+}
+.header:hover{
+    color:white;
 }
